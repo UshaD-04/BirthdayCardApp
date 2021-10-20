@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877216826900",
+    "project_id": "bdayfirebase",
+    "storage_bucket": "bdayfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877216826900:android:6cd879599821aff99e8901",
+        "android_client_info": {
+          "package_name": "com.usha.birthdaycardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877216826900-j8lictbgak0bavojddggptf325olodib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNzh3eywkdzbcvwFZnD_-9-X0zJHJcvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877216826900-j8lictbgak0bavojddggptf325olodib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
